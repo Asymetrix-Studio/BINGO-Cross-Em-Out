@@ -20,7 +20,6 @@ TL;DR, we do not collect any personally identifiable information. And the game w
 If you find any security vulnerability that might have been caused by us, or have any question regarding how the game protectes your privacy, please send us an email and we will definitely look into it.
 
 Thank you,
-
 A Symetrix Studio
 
 asymetrix.studio@gmail.com
