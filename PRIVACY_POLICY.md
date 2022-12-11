@@ -1,4 +1,4 @@
-## BINGO Cross 'Em Out: Privacy policy
+## BINGO Cross Em' Out: Privacy policy
 Posted: December 11, 2022
 
 Thanks for playing or getting interested in our game, BINGO Cross 'Em Out! Here we describe whether there are any of your information is being collect, use and handle by us when you play our game.
