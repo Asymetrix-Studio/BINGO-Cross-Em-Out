@@ -7,7 +7,7 @@ In short, to our best knowledge and belief, we have not build the game to collec
 
 ### Explanation for permissions requested in the app
 
-NETWORK_STATE, WIFI_STATE, INTERNET - These are all only for the Multiplayer function, which requires internet to work.
+NETWORK_STATE, WIFI_STATE, INTERNET - These are all only for the Multiplayer function, which requires internet connection to work.
 
 MODIFY_AUDIO_SETTINGS - This is of course to allow player to adjust audio related setting as there are music and sfx in our game.
 
